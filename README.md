@@ -1,5 +1,5 @@
-![HopfieldNet_logo](https://raw.githubusercontent.com/vadimfedulov321/HopfieldNet_rmsp/master/logo/index.jpg)
 ## A TensorFlow Implementation of Hopfield Network trained with RMSProp
+![HopfieldNet_logo](https://raw.githubusercontent.com/vadimfedulov321/HopfieldNet_rmsp/master/logo/index.jpg)
 
 You should have:
 
