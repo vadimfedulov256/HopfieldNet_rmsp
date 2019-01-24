@@ -14,7 +14,7 @@ TensorBoard (`pip install tensorboard`) (optionally)
 
 CUDA 9.0 and cuDNN 7.0.5 (for TensorFlow support)
 
-This network store 3 patterns and has 25 neurons, you can increase the number of stored patterns, if you want to.
+This network stores 3 patterns and has 25 neurons, you can increase the number of stored patterns, if you want to.
 
 You can use pretrained HopfieldNet-model in folder 'models' by tf_hopfield_rmsp.ipynb or train your own by tf_train_hopfield_rmsp.ipynb
 
